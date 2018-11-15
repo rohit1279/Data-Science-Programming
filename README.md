@@ -2,7 +2,7 @@
 Emotion Detection Using Deep Learning
 Steps for executing the project
 
-1.	Ther folder DSP_Project_Files contains the Dataset folder, Model Python notebook, Testing python Notebook and saved model .h5 file
+1.	The folder DSP_Project_Files contains the Dataset folder, Model Python notebook, Testing python Notebook and saved model .h5 file
 
 2.	The Dataset folder “Audio_Speech_Actors_01-24” contains 24 subfolders, in which there were Audio files alone (60 files for each actor) for all emotions.
 
